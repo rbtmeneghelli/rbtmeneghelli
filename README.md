@@ -1,6 +1,11 @@
 <h1 align="center">Olá, Seja bem vindo ao github👋 </h1>
 <h1 align="center">Meu nome é Roberto Meneghelli, sou desenvolvedor fullstack C#</h1>
 
+- 🔭 Trabalho atualmente com projetos relacionados a linguagem C# e ao framework NET Core
+- 👨‍💻 Formado em Ciências da Computação e Analise e Desenvolvimento de Sistemas
+- 🌱 Estudo de forma constante novidades no mundo da tecnologia que envolvem a área de programação
+- 📝 Em fase inicial de estudo em pós graduação em Computação em nuvem
+
 <h3 align="left">Rede social</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/roberto-meneghelli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roberto-meneghelli/" height="30" width="40" /></a>
