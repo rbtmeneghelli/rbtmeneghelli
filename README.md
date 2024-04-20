@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Seja bem vindo ao meu github👋 </h1>
-<h1 align="center">Meu nome é Roberto Meneghelli, sou desenvolvedor fullstack C#</h1>
+<h1 align="center">Meu nome é Roberto Meneghelli, sou desenvolvedor fullstack</h1>
 
 - 🔭 Trabalho atualmente com projetos relacionados a linguagem C# e ao framework NET Core
 - 👨‍💻 Formado em Ciências da Computação e Analise e Desenvolvimento de Sistemas
