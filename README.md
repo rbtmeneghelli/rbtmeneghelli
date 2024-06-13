@@ -3,7 +3,7 @@
 - 🔭 Trabalho atualmente com projetos relacionados a linguagem C# e ao framework NET Core
 - 👨‍💻 Formado em Ciências da Computação e Analise e Desenvolvimento de Sistemas
 - 🌱 Estudo de forma constante novidades no mundo da tecnologia que envolvem a área de programação
-- 📝 Em fase inicial de estudo em pós graduação em Computação em nuvem
+- 📝 Em fase inicial de estudo em pós graduação em Arquitetura de Soluções
 
 <h3 align="left">Rede social</h3>
 <p align="left">
