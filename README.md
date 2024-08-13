@@ -1,6 +1,7 @@
 <h1 align="center">Olá, Seja bem vindo ao meu github👋 </h1>
 
-- 🔭 Trabalho atualmente com projetos relacionados a linguagem C# e ao framework NET Core
+- 🚀 Desenvolvedor fullstack com mais 10 anos de experiência 
+- 🔭 Trabalho atualmente com projetos relacionados a linguagem de programação C#
 - 👨‍💻 Formado em Ciências da Computação e Analise e Desenvolvimento de Sistemas
 - 🌱 Estudo de forma constante novidades no mundo da tecnologia que envolvem a área de programação
 - 📝 Em fase inicial de estudo em pós graduação em Arquitetura de Soluções
