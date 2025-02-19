@@ -1,6 +1,6 @@
 <h1 align="center">Olá, Seja bem vindo ao meu github👋 </h1>
 
-- 🚀 Desenvolvedor fullstack com mais 10 anos de experiência 
+- 🚀 Desenvolvedor fullstack com mais de 10 anos de experiência 
 - 🔭 Trabalho atualmente com projetos relacionados a linguagem de programação C#
 - 👨‍💻 Formado em Ciências da Computação e Analise e Desenvolvimento de Sistemas
 - 🌱 Estudo de forma constante novidades no mundo da tecnologia que envolvem a área de programação
