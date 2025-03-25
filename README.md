@@ -4,7 +4,7 @@
 - 🔭 Trabalho atualmente com projetos relacionados a linguagem de programação C#
 - 👨‍💻 Formado em Ciências da Computação e Analise e Desenvolvimento de Sistemas
 - 🌱 Estudo de forma constante novidades no mundo da tecnologia que envolvem a área de programação
-- 📝 Em fase inicial de estudo em pós graduação em Arquitetura de Soluções
+- 📝 Em fase de aprimoramento das minhas habilidades para me tornar um Arquiteto de Soluções
 
 <h3 align="left">Rede social</h3>
 <p align="left">
