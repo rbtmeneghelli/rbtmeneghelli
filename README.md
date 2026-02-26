@@ -2,9 +2,8 @@
 
 - 🚀 Desenvolvedor fullstack com mais de 10 anos de experiência 
 - 🔭 Trabalho atualmente com projetos relacionados a linguagem de programação C#
-- 👨‍💻 Formado em Ciências da Computação e Analise e Desenvolvimento de Sistemas
-- 🌱 Estudo de forma constante novidades no mundo da tecnologia que envolvem a área de programação
-- 📝 Em fase de aprimoramento das minhas habilidades para me tornar um Arquiteto de Soluções
+- 👨‍💻 Pós graduado em Arquitetura de Soluções, Bacharel em Ciências da Computação e Analise e Desenvolvimento de Sistemas
+- 📝 Em fase inicial como MBA DevXpert FullStack .NET, visando cargo de Arquiteto de software
 
 <h3 align="left">Rede social</h3>
 <p align="left">
@@ -16,4 +15,8 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rbtmeneghelli&show_icons=true" alt="rbtmeneghelli" /></p>
+<h3 align="left">Atividade técnica</h3>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbtmeneghelli&theme=github_dark" />
+
+> Arquitetura não é apenas escrever código, é projetar sistemas que continuem funcionando bem no futuro.
