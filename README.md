@@ -18,5 +18,3 @@
 <h3 align="left">Atividade técnica</h3>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbtmeneghelli&theme=github_dark" />
-
-> Arquitetura não é apenas escrever código, é projetar sistemas que continuem funcionando bem no futuro.
