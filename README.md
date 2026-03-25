@@ -3,7 +3,7 @@
 - 🚀 Desenvolvedor fullstack com mais de 10 anos de experiência 
 - 🔭 Trabalho atualmente com projetos relacionados a linguagem de programação C#
 - 👨‍💻 Pós graduado em Arquitetura de Soluções, Bacharel em Ciências da Computação e Analise e Desenvolvimento de Sistemas
-- 📝 Em fase inicial como MBA DevXpert FullStack .NET, visando cargo de Liderança
+- 📝 Em fase inicial como MBA DevXpert FullStack .NET, visando cargo de Liderança Técnica
 
 <h3 align="left">Rede social</h3>
 <p align="left">
