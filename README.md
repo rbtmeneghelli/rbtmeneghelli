@@ -18,57 +18,6 @@
 
 ---
 
-## 🏗️ Arquitetura e Engenharia
-
-### Arquitetura
-
-* Clean Architecture
-* Microservices
-* CQRS
-* BFF
-* Event-Driven Architecture
-* Distributed Systems
-* SOLID
-* Design Patterns
-* Domain-Driven Design
-* RESTful APIs
-
-### Qualidade
-
-* Clean Code
-* TDD
-* Unit Testing
-* Integration Testing
-* Acceptance Testing
-* Code Quality
-* SonarQube
-* Observability & Logging
-
-### Integração
-
-* REST
-* SOAP
-* RabbitMQ
-* Apache Kafka
-* OAuth 2.0
-* Keycloak
-
----
-
-## 📚 Meu aprendizado continuo
-
-* Software Architecture
-* Technical Leadership
-* Distributed Systems
-* Cloud Architecture
-* Microservices
-* Event-Driven Architecture
-* Performance & Scalability
-* DevOps
-* .NET Ecosystem
-
----
-
 ## 🚀 O que você irá encontrar aqui
 
 * 🧪 Estudos e experimentos técnicos
@@ -79,12 +28,6 @@
 * 🧠 Implementações de Design Patterns
 * ☁️ Experimentos com Cloud e DevOps
 * 📚 Projetos utilizados para aprendizado e evolução profissional
-
----
-
-### ⚡ Meu pensamento sobre arquitetura
-
-> **Build software that works today, but architect it to evolve tomorrow.**
 
 ---
 
