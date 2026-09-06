@@ -1,14 +1,99 @@
-<h1 align="center">Olá, Seja bem vindo ao meu github👋 </h1>
+# Roberto Meneghelli
 
-- 🚀 Desenvolvedor fullstack com mais de 10 anos de experiência 
-- 🔭 Trabalho atualmente com projetos relacionados a linguagem de programação C#
-- 👨‍💻 Pós graduado em Arquitetura de Soluções, Bacharel em Ciências da Computação e Analise e Desenvolvimento de Sistemas
-- 📝 Em fase inicial como MBA DevXpert FullStack .NET, visando Liderança Técnica
+## 👨‍💻 Sobre mim
+
+* 💻 **10+ anos de experiência** em desenvolvimento de software
+* 🏗️ Pós-graduado em **Arquitetura de Soluções**
+* 🎓 Bacharel em **Ciência da Computação** e **Análise e Desenvolvimento de Sistemas**
+* 🚀 Especialista em desenvolvimento **Fullstack .NET**
+* 🧩 Experiência com **arquitetura de microsserviços, Clean Architecture, CQRS e BFF**
+* 🔌 Desenvolvimento de **REST APIs e integrações entre sistemas**
+* ☁️ Experiência com **Microsoft Azure**
+* 📨 Experiência com **RabbitMQ e Apache Kafka**
+* 🐳 Experiência com **Docker e Kubernetes**
+* 🗄️ Forte experiência com **SQL Server**
+* 🧪 Experiência com **TDD, testes unitários, integração e aceitação**
+* 🔐 Experiência com **OAuth 2.0 e Keycloak**
+* 📐 Interesse contínuo em **Software Architecture, Design Patterns e Distributed Systems**
+
+---
+
+## 🏗️ Arquitetura e Engenharia
+
+### Arquitetura
+
+* Clean Architecture
+* Microservices
+* CQRS
+* BFF
+* Event-Driven Architecture
+* Distributed Systems
+* SOLID
+* Design Patterns
+* Domain-Driven Design
+* RESTful APIs
+
+### Qualidade
+
+* Clean Code
+* TDD
+* Unit Testing
+* Integration Testing
+* Acceptance Testing
+* Code Quality
+* SonarQube
+* Observability & Logging
+
+### Integração
+
+* REST
+* SOAP
+* RabbitMQ
+* Apache Kafka
+* OAuth 2.0
+* Keycloak
+
+---
+
+## 📚 Meu aprendizado continuo
+
+* Software Architecture
+* Technical Leadership
+* Distributed Systems
+* Cloud Architecture
+* Microservices
+* Event-Driven Architecture
+* Performance & Scalability
+* DevOps
+* .NET Ecosystem
+
+---
+
+## 🚀 O que você irá encontrar aqui
+
+* 🧪 Estudos e experimentos técnicos
+* 🏗️ POCs de arquitetura
+* 💻 Projetos pessoais
+* 🔌 APIs e microsserviços
+* 📦 Bibliotecas e componentes reutilizáveis
+* 🧠 Implementações de Design Patterns
+* ☁️ Experimentos com Cloud e DevOps
+* 📚 Projetos utilizados para aprendizado e evolução profissional
+
+---
+
+### ⚡ Meu pensamento sobre arquitetura
+
+> **Build software that works today, but architect it to evolve tomorrow.**
+
+---
 
 <h3 align="left">Rede social</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/roberto-meneghelli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roberto-meneghelli/" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Habilidades de desenvolvimento</h3>
 <div align="center">
